@@ -1,0 +1,12 @@
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\bin\Debug\Prj_Teste.exe.config
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\bin\Debug\Prj_Teste.exe
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\bin\Debug\Prj_Teste.pdb
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.csprojAssemblyReference.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.Properties.Resources.resources
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.csproj.GenerateResource.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.csproj.CoreCompileInputs.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.csproj.CopyComplete
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.exe
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.pdb
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_Teste\Prj_Teste\obj\Debug\Prj_Teste.Frm_Principal.resources
