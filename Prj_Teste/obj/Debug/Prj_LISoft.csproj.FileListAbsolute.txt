@@ -1,0 +1,13 @@
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\bin\Debug\Prj_Teste.exe.config
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\bin\Debug\Prj_Teste.exe
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\bin\Debug\Prj_Teste.pdb
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_Teste.Frm_Principal.resources
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_Teste.Properties.Resources.resources
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_LISoft.csproj.GenerateResource.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_LISoft.csproj.CoreCompileInputs.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_LISoft.csproj.CopyComplete
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_Teste.exe
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_Teste.pdb
+C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_LISoft.csprojAssemblyReference.cache
