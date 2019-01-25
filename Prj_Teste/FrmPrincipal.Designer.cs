@@ -1,4 +1,4 @@
-﻿namespace Prj_Teste
+﻿namespace PrjManut
 {
     partial class Frm_Principal
     {

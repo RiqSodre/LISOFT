@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Prj_Teste
+namespace PrjManut
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Prj_Teste
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Principal());
+            Application.Run(new frmTeste());
         }
     }
 }
