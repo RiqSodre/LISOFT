@@ -11,3 +11,16 @@ C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_LIS
 C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_Teste.exe
 C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_Teste.pdb
 C:\Users\lufus\OneDrive\Área de Trabalho\Prj_LISoft\Prj_Teste\obj\Debug\Prj_LISoft.csprojAssemblyReference.cache
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\bin\Debug\Prj_Teste.exe.config
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\Prj_Teste.exe
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\Prj_Teste.pdb
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\bin\Debug\Prj_Teste.exe
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\bin\Debug\Prj_Teste.pdb
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\bin\Debug\MySql.Data.dll
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\bin\Debug\Google.Protobuf.dll
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\Prj_LISoft.csprojResolveAssemblyReference.cache
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\PrjManut.Frm_Principal.resources
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\PrjManut.frmTeste.resources
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\Prj_Teste.Properties.Resources.resources
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\Prj_LISoft.csproj.GenerateResource.Cache
+C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\bin\Debug\NITGEN.SDK.NBioBSP.dll

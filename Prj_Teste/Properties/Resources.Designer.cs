@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Prj_Teste.Properties
+namespace PrjManut.Properties
 {
 
 

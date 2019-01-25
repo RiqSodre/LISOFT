@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Bunifu.Framework.UI;
 
-namespace Prj_Teste
+namespace PrjManut
 {
     public partial class Frm_Principal : Form
     {
