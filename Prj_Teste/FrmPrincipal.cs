@@ -16,34 +16,49 @@ namespace PrjManut
         public Frm_Principal()
         {
             InitializeComponent();
+            pnlCad.Visible = false;
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
+        //Botão - Fecha o Programa.
         private void btnClose_Click(object sender, EventArgs e)
         {
             Close();
         }
 
-        private void bntMenu_Click(object sender, EventArgs e)
+        //Botão Menu - Início.
+        private void btnHome_Click(object sender, EventArgs e)
         {
-        //    if (sidemenu.Width == 50)
-        //    {
-        //        sidemenu.Visible = false;
-        //        sidemenu.Width = 227;
-        //        PanelAnimator.ShowSync(sidemenu);
-        //        LogoAnimator.ShowSync(logo);
-        //    }
-        //    else
-        //    {
-        //        LogoAnimator.Hide(logo);
-        //        sidemenu.Visible = false;
-        //        sidemenu.Width = 50;
-        //        PanelAnimator.ShowSync(sidemenu);
-        //    }
+            pnlInicio.Visible = true;
+            pnlCad.Visible = false;
+            //pnlCon.Visible = false;
+            //pnlHis.Visible = false;
+        }
+
+        //Botão Home - Cadastrar Aluno.
+        private void btnCadAluno_Click(object sender, EventArgs e)
+        {
+            pnlInicio.Visible = false;
+            pnlCad.Visible = true;
+            //pnlCon.Visible = false;
+            //pnlHis.Visible = false;
+        }
+
+        //Botão Home - Consultar Aluno.
+        private void btnConsulta_Click(object sender, EventArgs e)
+        {
+            pnlInicio.Visible = false;
+            pnlCad.Visible = true;
+            //pnlCon.Visible = false;
+            //pnlHis.Visible = false;
+        }
+
+        //Botão Home - Histórico de Empréstimos.
+        private void btnHistorico_Click(object sender, EventArgs e)
+        {
+            pnlInicio.Visible = false;
+            pnlCad.Visible = true;
+            //pnlCon.Visible = false;
+            //pnlHis.Visible = false;
         }
     }
 }

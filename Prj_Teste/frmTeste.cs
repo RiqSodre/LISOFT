@@ -9,13 +9,14 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using prjManut.Entidades;
 using prjManut.Model;
+using NITGEN.SDK.NBioBSP;
 
 namespace PrjManut
 {
     public partial class frmTeste : Form
     {
         private NitgenUtils nUtils;
-        private AlunoMODEL alunoMODEL;
+        //private AlunoMODEL alunoMODEL;
 
         public frmTeste()
         {
@@ -26,7 +27,6 @@ namespace PrjManut
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
             nUtils.CadastrarDigital();
-          
         }
     }
 }

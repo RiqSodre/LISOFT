@@ -23,7 +23,7 @@ namespace PrjManut
             if (ret == NBioAPI.Error.NONE)
                 return;
             else
-                throw new Exception();
+                MessageBox.Show("Nenhum dispositivo conectado.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
 
         public void Finalizar()
@@ -35,7 +35,8 @@ namespace PrjManut
                 throw new Exception();
         }
 
-        public void CadastrarDigital() //Enroll
+        //Enroll
+        public void CadastrarDigital()
         {
             NBioAPI.Type.FIR biFIR = null;
             NBioAPI.Type.HFIR newFIR = null;
@@ -47,6 +48,7 @@ namespace PrjManut
                 nBioApi.GetFIRFromHandle(newFIR, out biFIR);
             }
             Finalizar();
+            
         }
 
         public bool VerificarDigitais(NBioAPI.Type.FIR userFRI)

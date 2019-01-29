@@ -16,7 +16,7 @@ namespace PrjManut
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTeste());
+            Application.Run(new Frm_Principal());
         }
     }
 }

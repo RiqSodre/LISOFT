@@ -24,3 +24,19 @@ C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\PrjManut.frmTeste.resources
 C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\Prj_Teste.Properties.Resources.resources
 C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\obj\Debug\Prj_LISoft.csproj.GenerateResource.Cache
 C:\Users\Adriana\Desktop\LISOFT\Prj_Teste\bin\Debug\NITGEN.SDK.NBioBSP.dll
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\bin\Debug\Prj_Teste.exe.config
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\bin\Debug\Prj_Teste.exe
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\bin\Debug\Prj_Teste.pdb
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\bin\Debug\MySql.Data.dll
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\bin\Debug\Google.Protobuf.dll
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\bin\Debug\MySql.Data.xml
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\Prj_LISoft.csprojAssemblyReference.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\PrjManut.Frm_Principal.resources
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\PrjManut.frmTeste.resources
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\Prj_Teste.Properties.Resources.resources
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\Prj_LISoft.csproj.GenerateResource.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\Prj_LISoft.csproj.CoreCompileInputs.cache
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\Prj_LISoft.csproj.CopyComplete
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\Prj_Teste.exe
+C:\Users\lufus\OneDrive\Área de Trabalho\LISOFT\Prj_Teste\obj\Debug\Prj_Teste.pdb
